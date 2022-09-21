@@ -1,0 +1,9 @@
+name: OrbitalTest
+version: '${project.version}'
+main: pt.dioguin.orbitaltest.Main
+authors: [ yDioguin ]
+website: https://diogolima.tk
+commands:
+  explode:
+  fire:
+  lightning:

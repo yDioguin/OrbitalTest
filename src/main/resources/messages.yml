@@ -1,0 +1,7 @@
+FireSyntaxError: "&cType '/fire <player>'"
+LightningSyntaxError: "&cType '/lightning <player>'"
+ExplodeSyntaxError: "&cType '/explode <player>'"
+PlayerNotOnline: "&cThis player is not online"
+FireSuccess: "&aThe player {player} is now on fire for 3 seconds."
+LightningSuccess: "&aLightning has been successfully thrown at player {player}!"
+ExplodeSuccess: "&aYou have successfully blown up player {player}!"
